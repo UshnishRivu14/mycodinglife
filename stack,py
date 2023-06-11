@@ -1,0 +1,22 @@
+#creating a stack
+
+stack = []
+
+#appending items
+
+stack.append('a')
+stack.append('b')
+stack.append('c')
+print("Stack after appending: ")
+print(stack)
+
+#pop out all elements
+print("Stack popping out element")
+print(stack.pop())
+print(stack.pop())
+print(stack.pop())
+
+print("Stack after popping out element: ")
+print(stack)
+
+

@@ -1,0 +1,1 @@
+SELECT DISTINCT grade FROM testdb.classroom;
